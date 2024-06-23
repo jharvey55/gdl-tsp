@@ -1,0 +1,7 @@
+[package]
+name = "gdlTSP"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+gdl = {git = "https://github.com/jharvey55/gdl", branch="MVP"}
